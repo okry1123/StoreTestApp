@@ -17,8 +17,8 @@ android {
         applicationId "com.okry.storetestapp"
         minSdkVersion 14
         targetSdkVersion 22
-        versionCode 85
-        versionName "8.5"
+        versionCode 90
+        versionName "9.0"
     }
     buildTypes {
         release {
