@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap xmlns:android="http://schemas.android.com/apk/res/android">
+    <entry>
+        <key>param1_key</key>
+        <value>MR</value>
+    </entry>
+    <entry>
+        <key>param2_key</key>
+        <value>50</value>
+    </entry>
+</defaultsMap>

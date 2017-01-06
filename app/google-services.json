@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "223790551115",
+    "firebase_url": "https://myfirebasetest-71bb5.firebaseio.com",
+    "project_id": "myfirebasetest-71bb5",
+    "storage_bucket": "myfirebasetest-71bb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223790551115:android:94ac8f1c5d1dc884",
+        "android_client_info": {
+          "package_name": "com.okry.storetestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223790551115-6g2lhmrh1ca29m42f8eh19g9d48drnai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiDQCgnuZEYB6vqNf-odsK2vOiz8XmXA8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
